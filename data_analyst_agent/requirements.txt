@@ -1,0 +1,8 @@
+langgraph
+langchain-google-genai
+pandas
+openpyxl
+matplotlib
+seaborn
+python-dotenv
+tabulate
