@@ -1,5 +1,16 @@
 # 🚀 Agentic AI with Google Antigravity
 
+## Why I Built This
+
+As a professional transitioning into Analytics and AI, I wanted to explore how Generative AI can solve a real-world problem faced by millions of job seekers.
+
+This project demonstrates:
+- AI-powered document analysis
+- Business problem solving
+- Prompt engineering
+- Practical Generative AI implementation
+
+
 ## Overview
 
 This repository documents my journey exploring **Agentic AI** using **Google Antigravity** and modern AI agent frameworks.
